@@ -1,0 +1,20 @@
+{
+    "name": "community-engineering/language-tr_tr",
+    "type": "magento2-language",
+    "description": "tr_TR language package.",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "require": {
+        "magento/framework": "*"
+    },
+    "autoload": {
+        "files": [
+          "registration.php"
+        ]
+    }
+}
