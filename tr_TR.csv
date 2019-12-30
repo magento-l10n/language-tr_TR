@@ -3167,6 +3167,9 @@ Suffix,Sonek
 "My Orders",Siparişlerim
 "Create New Customer","Yeni Müşteri Ekle"
 Users,Kullanıcılar
+"Reimburse Balance","Bakiyeyi Geri Öde"
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","Bu siparişi iptal etmek istediğinizden emin misiniz? Şirket aktif olmadığı için sipariş tutarı %1'e döndürülmeyecek."
+"Company Credit","Şirket Kredisi"
 "The requested Payment Method is not available.","İstenilen Ödeme Metodu uygun değil."
 Updated,Güncellendi
 Purchased,"Satın alınan"
@@ -3178,10 +3181,14 @@ Reverted,"Geri Alındı"
 "Order # %1","Sipariş # %1"
 "Purchase Order Number","Sipariş Numarası"
 "Purchase Order Number: %1","Sipariş numarası: %1"
+"Available Credit","Kullanılabilir kredi"
+"Credit Limit","Kredi limiti"
+"Charged off the company credit","Şirket kredisinden tahsil edildi"
 "This is a required field.","Bu gerekli bir alandır."
 Rate,Oran
 Date,Tarih
 Operation,Operasyon
+"Updated By","Tarafından güncellendi"
 "Purchase Order","Satınalma Siparişi"
 "All Payment Methods","Bütün ödeme yöntemleri"
 "Specific Payment Methods","Özel Ödeme Yöntemleri"
