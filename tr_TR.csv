@@ -3563,6 +3563,7 @@ Alphanumeric,Alfasayısal
 "The attribute code is invalid. Please use only letters (a-z), numbers (0-9) or underscores (_) in this field. The first character should be a letter.","Özellik kodu geçersiz. Lütfen sadece bu alandaki harfleri (a-z), sayıları (0-9) veya alt çizgi (_) kullanın. İlk karakter bir harf olmalıdır."
 "Please correct the value for file extensions.","Lütfen dosya uzantılarının değerini düzeltin."
 "Alphanumeric with spaces","Boşluklu alfanümerik"
+"Sign Out","Oturumu Kapat"
 "You are subscribed to our newsletter.","Haber bültenimize abone oldunuz."
 "You aren't subscribed to our newsletter.","Haber bültenimize abone olmadınız."
 "You have not set a default shipping address.","Varsayılan teslimat adesi ayarlamadınız."
