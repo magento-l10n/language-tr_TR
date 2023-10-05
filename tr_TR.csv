@@ -9420,8 +9420,15 @@ Captured,"Tahsil edildi"
 "Quick Checkout","Hızlı ödeme"
 "Store alternative addresses","Dükkanın alternatif adresi"
 "For shipping to multiple family members and friends","Birden fazla aile bireyleri ve arkadaşlara nakliye için"
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Çalışma Saatleri:<br /><span class=""no-link"">%store_hours</span>."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Sipariş hakkında sorularınız varsa, <a href=""mailto:%store_email""> %store_email</a> e-posta gönderebilirsiniz."
-"Payment Method","Ödeme Şekli"
+"Shipping Info","Kargo Bilgisi"
+"Payment Method","Ödeme Yöntemi"
+"Shipping Method","Kargo Yöntemi"
+"Update to your %store_name credit memo","İade bilgisini güncelleyin %store_name"
+"Account Dashboard",Hesabım
+"Account Information","Hesap Bilgileri"
+"About Us",Hakkımızda
 "Backup options","Yedekleme ayarları"
 Warning,Tehlike
 "Recent items","Son Öğeler"
